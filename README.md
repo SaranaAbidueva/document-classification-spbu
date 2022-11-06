@@ -6,5 +6,7 @@ Task_1.ipynb contains 4 exercises targeted on **programming skills**:
    1. check if string1 contains a permutation of string2.
    1. make a class for binary trees.
    1. build a calculator with integers, +-*/ and brackets.
+
 Task_2 is dedicated to solve tasks using **Numpy** without loops.
+
 Task_3 is related to **Pandas** library
