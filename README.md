@@ -10,3 +10,5 @@ Task_1.ipynb contains 4 exercises targeted on **programming skills**:
 Task_2 is dedicated to solve tasks using **Numpy** without loops.
 
 Task_3 is related to **Pandas** library
+
+In Task_4 I made linear regression with numpy 
